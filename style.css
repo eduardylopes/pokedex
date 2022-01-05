@@ -65,10 +65,6 @@ h1 {
 	background-color: #FCF7DE;
 }
 
-h2, p {
-	display: none;
-}
-
 .water, .ice {
 	background-color: #DEF3FD;
 }
